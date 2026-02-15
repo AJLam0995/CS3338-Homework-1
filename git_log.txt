@@ -1,0 +1,126 @@
+commit 4d87e5d8fe814537d645a6d65bfaf4509baa7bcf
+Author: AJLam0995 <120296232+AJLam0995@users.noreply.github.com>
+Date:   Sun Feb 15 10:59:38 2026 -0800
+
+    Update copyright year and name in footer
+
+commit c57b61d52b4e3e4fe448a7fe54d7bcd3f46d25b0
+Merge: f37cdce 2a10463
+Author: AJLam0995 <120296232+AJLam0995@users.noreply.github.com>
+Date:   Sun Feb 15 10:58:53 2026 -0800
+
+    Merge pull request #2 from AJLam0995/feature-about-me
+    
+    Move feature about me information branch to main
+
+commit 2a10463c2b7e5228bb8126ef33d15ee0de658ee4
+Merge: ed1dd82 f37cdce
+Author: AJLam0995 <120296232+AJLam0995@users.noreply.github.com>
+Date:   Sun Feb 15 10:54:45 2026 -0800
+
+    Merge branch 'main' into feature-about-me
+
+commit ed1dd8244cee6042c801d9a623ccceee86af0e03
+Merge: 8f706d1 e399fdc
+Author: AJLam0995 <ajlam0995@gmail.com>
+Date:   Fri Feb 13 12:50:20 2026 -0800
+
+    Merge branch 'feature-about-me' of https://github.com/AJLam0995/CS3338-Homework-1 into feature-about-me
+
+commit e399fdc4afa540066552c04c0ef796d12dd6b79c
+Merge: 36c86ba 770cab6
+Author: AJLam0995 <120296232+AJLam0995@users.noreply.github.com>
+Date:   Fri Feb 13 12:38:29 2026 -0800
+
+    Merge pull request #1 from afbufd/patch-1
+    
+    Update groupmate information in index.html
+
+commit 770cab665ff25ea8f43b758452862f14e0478488
+Author: afbufd <153155011+afbufd@users.noreply.github.com>
+Date:   Fri Feb 13 12:37:40 2026 -0800
+
+    Update groupmate information in index.html
+
+commit 0251af9b236aa8b9ab7e59bc8c00f8ff4896e73b
+Author: AJLam0995 <120296232+AJLam0995@users.noreply.github.com>
+Date:   Fri Feb 13 12:22:18 2026 -0800
+
+    Update index.html
+    
+    Adding about me to group member.
+
+commit 8f706d1da80f405e5b9cb903733ca07e567b835f
+Author: AJLam0995 <ajlam0995@gmail.com>
+Date:   Fri Feb 13 12:15:18 2026 -0800
+
+    Update index.html
+    
+    Added my description to the index.
+
+commit bab8fd8c7c709aef42acd5f6279eeb227e201447
+Author: afbufd <aflores4824@gmail.com>
+Date:   Thu Feb 12 00:52:20 2026 -0800
+
+    Cleanup Main prev info page
+
+commit abedd5dc947aaa279eb8a6696564d41d55727495
+Merge: f37cdce ca23410
+Author: afbufd <153155011+afbufd@users.noreply.github.com>
+Date:   Thu Feb 12 00:47:00 2026 -0800
+
+    Merge pull request #1 from afbufd/feature-about-me
+    
+    Feature's about me
+
+commit ca234104894b20b13ebc56266da8d4ae5e9514d0
+Merge: 79996ce f37cdce
+Author: afbufd <153155011+afbufd@users.noreply.github.com>
+Date:   Thu Feb 12 00:44:41 2026 -0800
+
+    Merge branch 'main' into feature-about-me
+
+commit 79996ce24f89ac988a6210280a2536af69b013a3
+Author: afbufd <aflores4824@gmail.com>
+Date:   Thu Feb 12 00:23:38 2026 -0800
+
+    Filled out About Me
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
